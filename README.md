@@ -1,7 +1,7 @@
 # Tic Tac Toe 
 Tic Tac Toe game written in c++ <br>
 
-<img src="https://simo.sh/tic-tac-toe-draw.gif">
+<img style="width:400px;height:400px;" src="https://simo.sh/tic-tac-toe-draw.gif">
 
 ```cpp
 #include <iostream>
@@ -40,7 +40,7 @@ Second player will be (O) : Doe <br>
 Start game (Y/N) ? : Y<br>
 <br>
 ╔═╦═╦═╗ <br>
-║1 ║2 ║3 ║ <br>
+║1║2║3║ <br>
 ╠═╬═╬═╣ <br>
 ║4║5║6║ <br>
 ╠═╬═╬═╣ <br>
