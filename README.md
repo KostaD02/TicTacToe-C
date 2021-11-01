@@ -40,7 +40,7 @@ Second player will be (O) : Doe <br>
 Start game (Y/N) ? : Y<br>
 <br>
 ╔═╦═╦═╗ <br>
-║1║2║3║ <br>
+║1 ║2 ║3 ║ <br>
 ╠═╬═╬═╣ <br>
 ║4║5║6║ <br>
 ╠═╬═╬═╣ <br>
@@ -60,6 +60,9 @@ Your move : 1 <br>
 Now it's Doe turn . <br>
 Make move between 1-9 <br>
 Your move : 2 <br>
+... <br>
+... <br>
+... <br>
 ╔═╦═╦═╗ <br>
 ║X║O║3║ <br>
 ╠═╬═╬═╣ <br>
